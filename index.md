@@ -6,4 +6,4 @@
 [service-management.md](https://harris-j.github.io/about/writing/service-managment.md)
 
 
-[Intro to Investing](https://harris-j.github.io/about/writing/Intro2Investing.md)
+[Intro to Investing](/writing/Intro2Investing.md)
