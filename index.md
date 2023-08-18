@@ -8,3 +8,13 @@
 
 
 [Intro to Investing](/writing/Intro2Investing.md)
+
+
+Testing a Mermaid Diagram
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
